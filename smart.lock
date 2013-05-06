@@ -5,6 +5,10 @@
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
         "branch": "dev"
+      },
+      "accounts-ui-bootstrap-dropdown": {
+        "git": "https://github.com/erobit/meteor-accounts-ui-bootstrap-dropdown.git",
+        "branch": "master"
       }
     },
     "packages": {
@@ -12,6 +16,11 @@
         "git": "https://github.com/EventedMind/iron-router.git",
         "branch": "dev",
         "commit": "1f65add04c5a83c2d8ebf750953c30e92a78d913"
+      },
+      "accounts-ui-bootstrap-dropdown": {
+        "git": "https://github.com/erobit/meteor-accounts-ui-bootstrap-dropdown.git",
+        "branch": "master",
+        "commit": "bfa242a286b7859c2df0b66a9760f7ac9e6ce57f"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",

@@ -3,6 +3,10 @@
     "iron-router": {
       "git": "https://github.com/EventedMind/iron-router.git",
       "branch": "dev"
+    },
+    "accounts-ui-bootstrap-dropdown": {
+      "git": "https://github.com/erobit/meteor-accounts-ui-bootstrap-dropdown.git",
+      "branch": "master"
     }
   }
 }
