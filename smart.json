@@ -8,6 +8,10 @@
       "git": "https://github.com/erobit/meteor-accounts-ui-bootstrap-dropdown.git",
       "branch": "master"
     },
-    "spin": {}
+    "spin": {},
+    "iron-router-progress": {
+      "git": "https://github.com/Multiply/iron-router-progress.git",
+      "branch": "blaze-integration"
+    }
   }
 }

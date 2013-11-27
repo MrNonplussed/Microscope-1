@@ -10,7 +10,11 @@
         "git": "https://github.com/erobit/meteor-accounts-ui-bootstrap-dropdown.git",
         "branch": "master"
       },
-      "spin": {}
+      "spin": {},
+      "iron-router-progress": {
+        "git": "https://github.com/Multiply/iron-router-progress.git",
+        "branch": "blaze-integration"
+      }
     },
     "packages": {
       "iron-router": {
@@ -27,6 +31,11 @@
         "git": "https://github.com/SachaG/meteor-spin.git",
         "tag": "v0.2.2",
         "commit": "3f655f0016228e4195acc784c45d3e3a247dc39f"
+      },
+      "iron-router-progress": {
+        "git": "https://github.com/Multiply/iron-router-progress.git",
+        "branch": "blaze-integration",
+        "commit": "a44eabab9f23b86c42c680cce90b6007fdd7f613"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
